@@ -24,3 +24,4 @@ const mensaje = "murcielago leon jirafa cebra elefante rinoceronte hipopotamo ar
 const resultado = procesarMensaje(mensaje);
 
 console.log(resultado);
+
